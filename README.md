@@ -1,11 +1,7 @@
-![thumbnail](https://user-images.githubusercontent.com/54415525/149655527-0edef26f-bd3a-4658-af3a-97517bba249e.png)
-
-# Da'Chess
+# PEGAChess
 
 - React based frontend for a 3D chess app that uses smart contracts to allow staking and much more on live games!
-- Demo link : https://youtu.be/yew42WeQ9-g
 - Uses React Three Fiber (an abstraction of ThreeJS for React) to render the 3D scenes.
-- Was a [submission](https://devfolio.co/submissions/dachess-e961) for the Ethernals hackathon.
 - Connect to Mumbai testnet to play
 # Screenshots
 
